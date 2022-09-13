@@ -54,14 +54,8 @@ li{
 }
 li {
 	font-size: 25px;
-	display: inline;
+	
 	
 }
-.nav-link{
-	margin-bottom: 1px solid black;
 
-}
 
-.col-sm-12 .col-xs-12{
-	margin: 10px;
-}
