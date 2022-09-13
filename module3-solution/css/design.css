@@ -1,0 +1,67 @@
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand{
+	
+	font-size: 34px;
+	font-weight: bold;
+	color:#000000 ;
+}
+
+.navbar{
+	background-color: lightgray;
+	border: solid;
+	padding: 0px;
+
+}
+.start{
+	font-size: 33px;
+	font-weight: bold;
+	color: #000000;
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+section{
+	background-color: lightgray;
+	height: 1000px;
+
+}
+
+
+.non-veg{
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+.para{
+	font-weight: bold;
+	overflow: none;
+}
+.navbar-toggler{
+	background-color: lightslategray;
+
+}
+li{
+	text-align: center;
+	
+}
+.navbar-collapse{
+	background-color: white;
+}
+li {
+	font-size: 25px;
+	display: inline;
+	
+}
+.nav-link{
+	margin-bottom: 1px solid black;
+
+}
+
+.col-sm-12 .col-xs-12{
+	margin: 10px;
+}
